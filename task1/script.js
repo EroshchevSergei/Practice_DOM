@@ -1,1 +1,5 @@
-console.log('Привет, Мир!');
+document.onkeydown = click;
+
+function click() {
+        console.log('Привет, Мир!');
+  }
